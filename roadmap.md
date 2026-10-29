@@ -1,0 +1,18 @@
+# Roadmap
+- [x] Email login + profiles
+- [x] Chat: text, voice, photos, files, location, stickers, GIF, emoji
+- [x] Contact info: lock, block, report, delete, shared media
+- [x] Voice/video calls
+- [x] Installable web app
+- [x] Rename to UR_Chat
+- [x] Online / last seen
+- [x] Groups (create, add members, leave)
+- [x] Own gallery picker (multi photo/video, captions) + photo editor
+- [x] Edit messages, forward messages/media, edit photo & resend
+- [x] Sheets with formulas + Excel download (templates: log, data, bill, expenses, result card)
+- [x] Desktop layout (side rail, wide screens)
+- [x] APK: Flutter wrapper project zip delivered
+- [ ] EXE packaging (not requested yet)
+- [x] Market tab removed; Maps moved into the Me tab
+- [x] Message ticks: sent ✓, delivered ✓✓, seen (blue ✓✓)
+- [x] Owner panel (ubaidurrehman@urubaid.site): add, remove and permanently block accounts
